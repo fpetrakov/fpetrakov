@@ -1,4 +1,4 @@
-### Hi there, I'm Fyodor Petrakov 👋
+### Hi there 👋
 
 <!--
 **fpetrakov/fpetrakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
