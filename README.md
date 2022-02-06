@@ -1,2 +1,1 @@
-# Привет, меня зовут Федя 👋
-- Telegram - @fpetrakov
+# Hey there, my name is Fedor 👋
