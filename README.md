@@ -1,4 +1,4 @@
-### hey there, I'm Fedor 👋🗿
+### hey there, I'm Fedya 👋🗿
 - [telegram](https://t.me/fpetrakov)
 - [leetcode](https://leetcode.com/leet0-potato/)
 
