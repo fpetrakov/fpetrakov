@@ -1,6 +1,8 @@
-### hey there, I'm Fedya 👋🗿
-- [telegram](https://t.me/fpetrakov)
+Hey 👋, I'm Fedya!
+
+In my spare time you can find me here:   
+- [stackoverflow](https://stackoverflow.com/users/17086135/fpetrakov)
 - [leetcode](https://leetcode.com/leet0-potato/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fpetrakov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+If you want to contact me:
+- [telegram](https://t.me/fpetrakov)
