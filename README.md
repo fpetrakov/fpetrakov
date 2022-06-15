@@ -1,8 +1,3 @@
-Hey 👋, I'm Fedya!
+Hey 👋, I'm Fedya! I'm a web developer working mainly with Javascript, Typescript and React.
 
-In my spare time you can find me here:   
-- [Stack Overflow](https://stackoverflow.com/users/17086135/fpetrakov)
-- [Leetcode](https://leetcode.com/leet0-potato/)
-
-If you want to contact me:
-- [Telegram](https://t.me/fpetrakov)
+In my spare time I answer questions on [Stack Overflow](https://stackoverflow.com/users/17086135/fpetrakov), solve algorithm questions on [Leetcode](https://leetcode.com/leet0-potato/) and learn Rust 🦀. I really like learning, trying out new things and broadening my mind. You're free to contact me through [Telegram](https://t.me/fpetrakov).
