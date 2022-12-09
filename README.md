@@ -13,4 +13,5 @@ Also I'm a contributor of:
 - [исходники доки](https://github.com/doka-guide/platform)
 - [feature-sliced docs](https://github.com/feature-sliced/documentation)
 - [разрабы](https://github.com/razrabs-media/editorial)
+- [VKUI](https://github.com/VKCOM/VKUI)
 - and others
