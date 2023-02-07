@@ -14,7 +14,7 @@ I'm a contributor of [stylelint](https://github.com/stylelint/stylelint), [postc
 - [Telegram](https://t.me/fpetrakov) (the best way)
 - [Twitter](https://twitter.com/fedya_petrakov)
 - [Email](mailto:fpetrakov.dev@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/fedya-petrakov-464355251)
+- [LinkedIn](https://www.linkedin.com/in/fpetrakov)
 
 ## Other resources 📢
 - [Dev.to](https://dev.to/fpetrakov), reposts from my blog.
