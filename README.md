@@ -8,7 +8,7 @@ I'm a contributor of [stylelint](https://github.com/stylelint/stylelint), [postc
 
 ## Contacts ✉️
 - [Telegram](https://t.me/fpetrakov) (the best way)
-- [Twitter](https://twitter.com/fedya_petrakov)
+- [Twitter](https://twitter.com/fedya_petrakov) (currently disabled)
 - [Email](mailto:fpetrakov.dev@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/fpetrakov)
 - [LeetCode](https://leetcode.com/fpetrakov/)
