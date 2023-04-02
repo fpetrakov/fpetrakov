@@ -13,3 +13,4 @@ I'm a contributor of [stylelint](https://github.com/stylelint/stylelint), [postc
 - [Email](mailto:fpetrakov.dev@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/fpetrakov)
 - [LeetCode](https://leetcode.com/fpetrakov/)
+- [MyAnimeList](https://myanimelist.net/profile/selby66)
