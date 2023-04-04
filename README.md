@@ -1,4 +1,3 @@
-![FqvgZdJaAAAUKWy](https://user-images.githubusercontent.com/34133492/227716197-2dc091ec-0429-41cc-8ced-6dd7278f5946.jpg)
 ## My projects 👨‍💻
 🤖 Tools:
 - [convert-to-oklch](https://github.com/fpetrakov/convert-to-oklch), CLI tool to convert colors into new oklch color format.
@@ -13,4 +12,3 @@ I'm a contributor of [stylelint](https://github.com/stylelint/stylelint), [postc
 - [Email](mailto:fpetrakov.dev@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/fpetrakov)
 - [LeetCode](https://leetcode.com/fpetrakov/)
-- [MyAnimeList](https://myanimelist.net/profile/selby66)
