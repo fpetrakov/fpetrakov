@@ -5,6 +5,9 @@
 ## Open source contributions 🌿
 I'm a contributor of [stylelint](https://github.com/stylelint/stylelint), [postcss](https://github.com/postcss/postcss), [контент доки](https://github.com/doka-guide/content), [исходники доки](https://github.com/doka-guide/platform), [feature-sliced docs](https://github.com/feature-sliced/documentation) and some others.
 
+## Favourite books on programming
+- ["Unit Testing Principles, Practices, and Patterns" by Vladimir Khorikov](https://www.manning.com/books/unit-testing).
+
 ## Contacts ✉️
 - [Telegram](https://t.me/fpetrakov) (the best way)
 - [Twitter](https://twitter.com/fedya_petrakov) (currently disabled)
