@@ -9,7 +9,7 @@ I'm a contributor of [stylelint](https://github.com/stylelint/stylelint), [postc
 - ["Unit Testing Principles, Practices, and Patterns" by Vladimir Khorikov](https://www.manning.com/books/unit-testing).
 
 ## Contacts ✉️
-- [Telegram](https://t.me/fpetrakov) (the best way)
+- [Telegram](https://t.me/fpetrakov)
 - [Email](mailto:fpetrakov.dev@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/fpetrakov)
 - [LeetCode](https://leetcode.com/fpetrakov/)
