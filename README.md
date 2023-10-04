@@ -13,4 +13,4 @@ I'm a contributor of [stylelint](https://github.com/stylelint/stylelint), [postc
 - [Telegram](https://t.me/fpetrakov)
 - [Email](mailto:fpetrakov.dev@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/fpetrakov)
-- [LeetCode](https://leetcode.com/fpetrakov/)\
+- [LeetCode](https://leetcode.com/fpetrakov/)
