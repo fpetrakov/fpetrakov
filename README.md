@@ -5,8 +5,9 @@
 ## Open source contributions 🌿
 I'm a contributor of [stylelint](https://github.com/stylelint/stylelint), [postcss](https://github.com/postcss/postcss), [контент доки](https://github.com/doka-guide/content), [исходники доки](https://github.com/doka-guide/platform), [feature-sliced docs](https://github.com/feature-sliced/documentation) and some others.
 
-## Favourite books on programming
-- ["Unit Testing Principles, Practices, and Patterns" by Vladimir Khorikov](https://www.manning.com/books/unit-testing).
+## Favourite books on programming, frontend, design etc.
+- ["Unit Testing Principles, Practices, and Patterns"](https://www.manning.com/books/unit-testing)  by Vladimir Khorikov.
+- ["Refactoring UI"](https://www.refactoringui.com/) by Adam Wathan and Steve Schoger.
 
 ## Contacts ✉️
 - [Twitter](https://twitter.com/fedya_petrakov)
