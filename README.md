@@ -8,6 +8,7 @@ I'm a contributor of [stylelint](https://github.com/stylelint/stylelint), [postc
 ## Favourite books on programming, frontend, design etc.
 - ["Unit Testing Principles, Practices, and Patterns"](https://www.manning.com/books/unit-testing)  by Vladimir Khorikov.
 - ["Refactoring UI"](https://www.refactoringui.com/) by Adam Wathan and Steve Schoger.
+- ["Structure and Interpretation of Computer Programs"](https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs) by Harold Abelson, Gerald Jay Sussman and Julie Sussman.
 
 ## Contacts ✉️
 - [Twitter](https://twitter.com/fedya_petrakov)
