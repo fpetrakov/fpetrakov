@@ -17,5 +17,3 @@ I'm a contributor of [stylelint](https://github.com/stylelint/stylelint), [postc
 - [Email](mailto:fpetrakov.dev@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/fpetrakov)
 - [LeetCode](https://leetcode.com/fpetrakov/)
-  
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/fedya_petrakov)
