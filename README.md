@@ -11,7 +11,6 @@ I'm a contributor of [stylelint](https://github.com/stylelint/stylelint), [postc
 - ["Structure and Interpretation of Computer Programs"](https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs) by Harold Abelson, Gerald Jay Sussman and Julie Sussman.
 
 ## Contacts ✉️
-- [Mastodon](https://mastodon.social/@fpetrakov)
 - [Telegram](https://t.me/fpetrakov)
 - [Email](mailto:fpetrakov.dev@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/fpetrakov)
